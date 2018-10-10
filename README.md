@@ -5,3 +5,5 @@ Elgg plugin for creating a questionsbank for quiz tests in social learning envir
 - labredes_subgroups
 - group_tools
 - labredes_teacher_access_collection
+
+See the manual (in Spanish)
